@@ -55,4 +55,4 @@ Las reglas y consideraciones técnicas a tener en cuenta para el desarrollo son 
 
 ### Infraestructura
 
-![Infraestructura](img/infraetructura.png)
+![Infraestructura](img/infraestructura.png)
