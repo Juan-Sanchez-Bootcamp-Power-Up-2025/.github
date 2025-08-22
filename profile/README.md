@@ -17,6 +17,7 @@ Una de las funcionalidades centrales es la capacidad de agilizar el proceso de s
 
 
 ## Arquitectura y Metodología
+
 La solución debe ser implementada como un sistema de **microservicios**, donde cada servicio es un componente independiente que se comunica a través de mecanismos asíncronos y síncronos.
 
 Las reglas y consideraciones técnicas a tener en cuenta para el desarrollo son las siguientes:
@@ -33,3 +34,25 @@ Las reglas y consideraciones técnicas a tener en cuenta para el desarrollo son 
 - El despliegue de la solución se realizará en **AWS** de forma manual usando **ECS con Fargate** y **API Gateway**.
 - Se utilizarán bases de datos relacionales (**RDS**) para la persistencia de datos transaccionales, y bases de datos no relacionales (**DynamoDB**) para datos de reportes.
 - Para el control de versiones y el ciclo de CI/CD se usará **Docker** y **AWS ECR**.
+
+## Diseño
+
+### Flujo de desarrollo
+
+![Flujo](img/flujo.png)
+
+### Arquitectura
+
+![Arquitectura](img/arquitectura.png)
+
+### Base de datos relacionales
+
+![BD Relacional](img/bd-relacional.png)
+
+### Base de datos no Relacional
+
+![BD No Relacional](img/bd-no-relacional.png)
+
+### Infraestructura
+
+![Infraestructura](img/infraetructura.png)
