@@ -49,7 +49,7 @@ Las reglas y consideraciones técnicas a tener en cuenta para el desarrollo son 
 
 ![BD Relacional](img/bd-relacional.png)
 
-### Base de datos no Relacional
+### Base de datos no relacional
 
 ![BD No Relacional](img/bd-no-relacional.png)
 
