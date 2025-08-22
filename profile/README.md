@@ -39,20 +39,20 @@ Las reglas y consideraciones técnicas a tener en cuenta para el desarrollo son 
 
 ### Flujo de desarrollo
 
-![Flujo](img/flujo.png)
+![Flujo](profile/img/flujo.png)
 
 ### Arquitectura
 
-![Arquitectura](img/arquitectura.png)
+![Arquitectura](profile/img/arquitectura.png)
 
 ### Base de datos relacionales
 
-![BD Relacional](img/bd-relacional.png)
+![BD Relacional](profile/img/bd-relacional.png)
 
 ### Base de datos no Relacional
 
-![BD No Relacional](img/bd-no-relacional.png)
+![BD No Relacional](profile/img/bd-no-relacional.png)
 
 ### Infraestructura
 
-![Infraestructura](img/infraetructura.png)
+![Infraestructura](profile/img/infraetructura.png)
